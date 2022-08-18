@@ -1,5 +1,5 @@
-<h1 align="center">Wiki-Potter</h1>
-Este projeto consiste em uma criação de um site de wikipedia da franquia Harry Potter, onde as pessoas poderão achar informações confiáveis e em Português.
+<h1 align="center">Wiki Potter</h1>
+Este projeto, criado por alguns alunos do Ensino Médio, consiste em uma criação de um site de wikipedia da franquia Harry Potter, onde as pessoas poderão achar informações confiáveis e em Português.
 
 ## Problemas
 Dificuldade de achar informações sobre o mundo da franquia Harry Potter, achar dados em Português, achar dados mais confiáveis.
