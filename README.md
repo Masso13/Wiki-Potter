@@ -18,8 +18,13 @@ A comunidade de Harry Potter que possui dificuldade em achar informações reais
 * História da escritora
 
 ## Template do Site
+
+### Página Inicial:
 <img src="template/home.png"></img>
+
+### Página de Consulta da Categoria
 <img src="template/wiki-base.png"></img>
+
 ## User Flow
 ## WireFrames
 ## Responsáveis dos Projeto
