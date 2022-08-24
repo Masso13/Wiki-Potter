@@ -5,7 +5,7 @@ Este projeto, criado por alguns alunos do Ensino Médio, que consiste em uma cri
 Dificuldade de achar informações sobre o mundo da franquia Harry Potter, achar dados em Português, achar dados mais confiáveis, achar informações sobre as casas de Hogwarts, conhecer a biblioteca de Hogwarts, achar as varinhas usadas na franquia, achar a história das famílias mais famosas, achar informações sobre lugares famosos.
 
 ## Objetivos
-Criar um site com informações sobre o mundo da franquia Harry Potter, com as casas dos bruxos em Hogwarts, áreas da magia, a biblioteca de Hogwarts, varinhas famosas, famílias mais faladas.
+Criar um site com informações sobre o mundo da franquia Harry Potter, com as casas dos bruxos em Hogwarts, áreas da magia, a biblioteca de Hogwarts, varinhas famosas, famílias mais faladas,animais fantasticos e lugares mais famosos.
 
 ## Público-Alvo
 A comunidade de Harry Potter que possui dificuldade em achar informações reais e em Português.
