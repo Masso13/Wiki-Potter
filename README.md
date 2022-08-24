@@ -19,10 +19,7 @@ A comunidade de Harry Potter que possui dificuldade em achar informações reais
 
 ## User Flow
 ## WireFrames
-## Responsáveis dos setores do Projeto
-Design:\
-Desenvolvimento:\
-Dados e Informações:
+## Responsáveis dos Projeto
 
 ## Fontes
 https://harrypotter.fandom.com/pt-br/wiki/Profeta_Di%C3%A1rio
