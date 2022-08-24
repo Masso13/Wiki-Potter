@@ -22,7 +22,7 @@ A comunidade de Harry Potter que possui dificuldade em achar informações reais
 ### Página Inicial:
 <img src="template/home.png"></img>
 
-### Página de Consulta da Categoria
+### Página de Consulta da Categoria:
 <img src="template/wiki-base.png"></img>
 
 ## User Flow
