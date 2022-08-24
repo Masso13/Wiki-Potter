@@ -22,12 +22,15 @@ A comunidade de Harry Potter que possui dificuldade em achar informações reais
 ### Página Inicial:
 <img src="template/home.png"></img>
 
-### Página de Consulta da Categoria:
+### Página de Consulta da Sessão:
 <img src="template/wiki-base.png"></img>
 
 ## User Flow
 ## WireFrames
 ## Responsáveis dos Projeto
+Gabriel Loredo de Moraes Melo
+Kamylle Silveira e Silva
+Luiz Miguel Rosa Lazarini Rubio
 
 ## Fontes
 https://harrypotter.fandom.com/pt-br/wiki/Profeta_Di%C3%A1rio
