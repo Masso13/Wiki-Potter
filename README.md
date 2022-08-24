@@ -28,8 +28,8 @@ A comunidade de Harry Potter que possui dificuldade em achar informações reais
 ## User Flow
 ## WireFrames
 ## Responsáveis dos Projeto
-Gabriel Loredo de Moraes Melo
-Kamylle Silveira e Silva
+Gabriel Loredo de Moraes Melo\
+Kamylle Silveira e Silva\
 Luiz Miguel Rosa Lazarini Rubio
 
 ## Fontes
