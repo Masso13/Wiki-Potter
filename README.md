@@ -17,6 +17,9 @@ A comunidade de Harry Potter que possui dificuldade em achar informações reais
 * Origem da franquia
 * História da escritora
 
+## Template do Site
+<img src="template/home.png"></img>
+<img src="template/wiki-base.png"></img>
 ## User Flow
 ## WireFrames
 ## Responsáveis dos Projeto
