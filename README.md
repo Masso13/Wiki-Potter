@@ -2,7 +2,7 @@
 Este projeto, criado pelos alunos do Ensino Médio, que consiste em uma criação de um site de wikipedia da franquia Harry Potter, no qual as pessoas poderão achar informações confiáveis e em Português.
 
 ## Problemas
-Dificuldade de achar informações sobre o mundo da franquia Harry Potter, achar dados em Português, achar dados mais confiáveis, achar informações sobre as casas de Hogwarts, conhecer a biblioteca de Hogwarts, achar as varinhas usadas na franquia, achar a história das famílias mais famosas, achar informações sobre lugares famosos e conhecer as sequências de livros e filmes.
+Dificuldade de acesso à informações confiáveis sobre o mundo da franquia Harry Potter. A começar, é quase inexistente fontes sobre o tema traduzidas para o Português, como por exemplo: as 4 casas de Hogwarts, o acervo da biblioteca de Hogwarts, as varinhas usadas na franquia, o histórico das famílias mais famosas, informações adicionais sobre as ambientações populares da narrativa, além das sequências dos livros e filmes.
 
 ## Objetivos
 Criar um site com informações sobre o mundo da franquia Harry Potter, com as casas dos bruxos em Hogwarts, áreas da magia, a biblioteca de Hogwarts, varinhas famosas, famílias mais faladas, animais fantasticos, lugares mais famosos e sequências de livros e filmes da franquia.
@@ -10,7 +10,7 @@ Criar um site com informações sobre o mundo da franquia Harry Potter, com as c
 ## Público-Alvo
 A comunidade de Harry Potter que possui dificuldade em achar informações reais e em Português.
 
-## Requisitos
+## Restrições
 * Ter informações reais sobre a franquia.
 * Ter um visual agradável que remete a franquia
 * Ter imagens de boa qualidade
