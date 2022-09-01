@@ -27,11 +27,14 @@ A comunidade de Harry Potter que possui dificuldade em achar informações reais
 
 ## User Flow
 ## WireFrames
-## Responsáveis dos Projeto
+## Responsáveis do Projeto
+Product Owner: Luiz Miguel Rosa Lazarini Rubio
+
 Gabriel Loredo de Moraes Melo\
-Kamylle Silveira e Silva\
-Luiz Miguel Rosa Lazarini Rubio
+Kamylle Silveira e Silva
+
+Professor Orientador: Iugor Sette
 
 ## Fontes
-https://harrypotter.fandom.com/pt-br/wiki/Profeta_Di%C3%A1rio
+https://harrypotter.fandom.com/pt-br/wiki/Profeta_Di%C3%A1rio\
 https://www.deviantart.com/
