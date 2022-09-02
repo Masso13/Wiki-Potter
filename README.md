@@ -1,4 +1,19 @@
 <h1 align="center">Wiki Potter</h1>
+
+## Sumário
+* Introdução
+* Problemas
+* Objetivos
+* Público-Alvo
+* Requisitos Funcionais
+* Requisitos não Funcionais
+* Template do Site
+* User Flow
+* WireFrames
+* Responsáveis do Projeto
+* Fontes
+
+## Introdução
 Este projeto, criado pelos alunos do Ensino Médio, que consiste em uma criação de um site de wikipedia da franquia Harry Potter, no qual as pessoas poderão achar informações confiáveis e em Português.
 
 ## Problemas
@@ -10,12 +25,15 @@ Criar um site com informações sobre o mundo da franquia Harry Potter, com as c
 ## Público-Alvo
 A comunidade de Harry Potter que possui dificuldade em achar informações reais e em Português.
 
-## Restrições
-* Ter informações reais sobre a franquia.
-* Ter um visual agradável que remete a franquia
-* Ter imagens de boa qualidade
-* Origem da franquia
-* História da escritora
+## Requisitos Funcionais
+* Ter uma animação ao passar o mouse em cima de uma imagem e aparecer o título do item que a imagem representa.
+* Retornar a página inical ao clicar na logo.
+* Imagens nítidas que atendam o padrão de 720p ou mais.
+
+## Requisitos não funcionais
+* Origem da franquia.
+* História da escritora.
+* Informações reais sobre a franquia.
 
 ## Template do Site
 
