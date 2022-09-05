@@ -107,5 +107,5 @@ Professor Orientador: Iugor Sette
 <h2 align="center" id="fontes">Fontes</h2>
 <br>
 
-https://harrypotter.fandom.com/pt-br/wiki/Profeta_Di%C3%A1rio\
+https://harrypotter.fandom.com/pt-br/wiki/Profeta_Di%C3%A1rio<br>
 https://www.deviantart.com/
