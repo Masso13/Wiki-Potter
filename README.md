@@ -5,22 +5,14 @@
 * <a href="#introdução">Introdução</a>
 * <a href="#problemas">Problemas</a>
 * <a href="#objetivos">Objetivos</a>
-* <a href="#público-alvo">Público-Alvo
-</a>
-* <a href="#requisitos-funcionais">Requisitos Funcionais
-</a>
-* <a href="#requisitos-não-funcionais">Requisitos não Funcionais
-</a>
-* <a href="#template-do-site">Template do Site
-</a>
-* <a href="#user-flow">User Flow
-</a>
-* <a href="#wireframes">Wireframes
-</a>
-* <a href="#responsáveis-do-projeto">Responsáveis do Projeto
-</a>
-* <a href="#fontes">Fontes
-</a>
+* <a href="#público-alvo">Público-Alvo</a>
+* <a href="#requisitos-funcionais">Requisitos Funcionais</a>
+* <a href="#requisitos-não-funcionais">Requisitos não Funcionais</a>
+* <a href="#template-do-site">Template do Site</a>
+* <a href="#user-flow">User Flow</a>
+* <a href="#wireframes">Wireframes</a>
+* <a href="#responsáveis-do-projeto">Responsáveis do Projeto</a>
+* <a href="#fontes">Fontes</a>
 
 <br>
 
