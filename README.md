@@ -16,35 +16,35 @@
 
 <br>
 
----
+
 <h2 align="center" id="introdução">Introdução</h2>
 <br>
 Este projeto, criado pelos alunos do Ensino Médio, que consiste em uma criação de um site de wikipedia da franquia Harry Potter, no qual as pessoas poderão achar informações confiáveis e em Português.
 
 <br>
 
----
+
 <h2 align="center" id="problemas">Problemas</h2>
 <br>
 Dificuldade de acesso à informações confiáveis sobre o mundo da franquia Harry Potter. A começar, é quase inexistente fontes sobre o tema traduzidas para o Português, como por exemplo: as 4 casas de Hogwarts, o acervo da biblioteca de Hogwarts, as varinhas usadas na franquia, o histórico das famílias mais famosas, informações adicionais sobre as ambientações populares da narrativa, além das sequências dos livros e filmes.
 
 <br>
 
----
+
 <h2 align="center" id="objetivos">Objetivos</h2>
 <br>
 Criar um site com informações sobre o mundo da franquia Harry Potter, com as casas dos bruxos em Hogwarts, áreas da magia, a biblioteca de Hogwarts, varinhas famosas, famílias mais faladas, animais fantasticos, lugares mais famosos e sequências de livros e filmes da franquia.
 
 <br>
 
----
+
 <h2 align="center" id="público-alvo">Público-Alvo</h2>
 <br>
 A comunidade de Harry Potter que possui dificuldade em achar informações reais e em Português.
 
 <br>
 
----
+
 <h2 align="center" id="requisitos-funcionais">Requisitos Funcionais</h2>
 <br>
 
@@ -63,7 +63,7 @@ A comunidade de Harry Potter que possui dificuldade em achar informações reais
 
 <br>
 
----
+
 <h2 align="center" id="template-do-site">Template do Site</h2>
 
 ### Página Inicial:
@@ -74,13 +74,13 @@ A comunidade de Harry Potter que possui dificuldade em achar informações reais
 
 <br>
 
----
+
 <h2 align="center" id="user-flow">User Flow</h2>
 <br>
 
 <br>
 
----
+
 <h2 align="center" id="wireframes">WireFrames</h2>
 <br>
 
@@ -90,7 +90,7 @@ A comunidade de Harry Potter que possui dificuldade em achar informações reais
 
 <br>
 
----
+
 <h2 align="center" id="responsáveis-do-projeto">Responsáveis do Projeto</h2>
 <br>
 
@@ -103,7 +103,7 @@ Professor Orientador: Iugor Sette
 
 <br>
 
----
+
 <h2 align="center" id="fontes">Fontes</h2>
 <br>
 
