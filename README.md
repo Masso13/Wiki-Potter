@@ -96,7 +96,7 @@ A comunidade de Harry Potter que possui dificuldade em achar informações reais
 
 Product Owner: Luiz Miguel Rosa Lazarini Rubio
 
-Gabriel Loredo de Moraes Melo\
+Gabriel Loredo de Moraes Mello\
 Kamylle Silveira e Silva
 
 Professor Orientador: Iugor Sette
