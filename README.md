@@ -92,12 +92,12 @@ A comunidade de Harry Potter que possui dificuldade em achar informações reais
 <h2 align="center" id="responsáveis-do-projeto">Responsáveis do Projeto</h2>
 <br>
 
-Product Owner: Luiz Miguel Rosa Lazarini Rubio
+* Product Owner: Luiz Miguel Rosa Lazarini Rubio
 
-Gabriel Loredo de Moraes Mello\
-Kamylle Silveira e Silva
+* Gabriel Loredo de Moraes Mello
+* Kamylle Silveira e Silva
 
-Professor Orientador: Iugor Sette
+* Professor Orientador: Iugor Sette
 
 <br>
 
