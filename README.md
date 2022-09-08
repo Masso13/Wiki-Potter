@@ -76,10 +76,8 @@ A comunidade de Harry Potter que possui dificuldade em achar informações reais
 
 
 <h2 align="center" id="user-flow">User Flow</h2>
-<br>
 
-<br>
-
+<img src="template/userflow.png">
 
 <h2 align="center" id="wireframes">WireFrames</h2>
 <br>
