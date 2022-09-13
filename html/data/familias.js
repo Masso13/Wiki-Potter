@@ -15,31 +15,6 @@ var familias = [
         brasao:"../img/familias/"
      },
      {
-        nome:"Harris",
-        descricao:"Harris era um nome de uma família trouxa, comum, residente em Londres até ao dia que John Harris decide casar com Rose Larroquette, uma bruxa de renome, jogadora de quadribol. A partir de aí a família Harris passou a ter magia nas suas veias. Deles nasceu um único filho, Liam Harris, um bruxo. Agora Liam está encarregue da família enquanto que seu pai e sua mãe estão vivendo na Austrália, vivendo a boa vida da reforma.",
-        brasao:"../img/familias/"
-     },
-     {
-        nome:"Greengrass",
-        descricao:"Família sangue-puro, geralmente Sonserinos. São belos, arrogantes e profundamente orgulhosos de quem são. Possui membros nobres como Daphnee Greengrass Montague e Astoria Greengrass Malfoy.",
-        brasao:"../img/familias/"
-     },
-     {
-        nome:"Shacklebolt",
-        descricao:"Fundada por Roberto Shack e Sarah Le Bolt, a família tem como principais características a humildade, lealdade, coragem e sabedoria. Uma família extremamente habilidosa e experiente em duelos e Defesa Contra as Artes das Trevas.Geralmente são bruxos altos, bem constituídos. São todos de raça negra e sangue-puro.",
-        brasao:"../img/familias/"
-     },
-     {
-        nome:"Godunov",
-        descricao:"Fundada por Boris e Flora a Família Godunov há anos mantém um linhagem de sangue-puro e exemplos clássicos de inteligência e sabedoria por parte de seus membros. São naturalmente da Rússia e quase todos os membros possuem uma massa corporal avantajada por serem em sua grande maioria alunos do Instituto Durmstrang de Magia.  Seu herdeiro é Mathias Godunov filho de Boris e Flora; O mesmo atualmente leciona a matéria da História da Magia atuando também como diretor da casa de Haus Wasser que por coincidência surpreendente tem sido há anos a comunal dos Godunov's.",
-        brasao:"../img/familias/"
-     },
-     {
-        nome:"Brunner",
-        descricao:"Fundada por volta do século XI, a família é originaria da Austália.Seu início se teve por Bernard Lawrence Brunner I, um bruxo muito respeitado de sua época que tornou-se Ministro da Magia da Austrália aos 40 anos. É uma família de nobreza exemplar, sangue-puro e rica. É uma família influente no mundo bruxo, e utilizam de sua riqueza para ter o que querem.",
-        brasao:"../img/familias/"
-     },
-     {
         nome:"Diggory",
         descricao: "Habitam uma longínqua Mansão, em Hogsmeade. São de puro-sangue, geralmente lufinos ou corvinos. Diggory, um requisito cheio de regras. Marcantes por sua repugnância aos considereados desprezíveis. Legítmos pela cede por justiça. Características únicas da família. Renda de Classe-Média. Descendentes de Eldricht Diggory. Abreviando, fascinados pela família em que nasceram.",
         brasao:"../img/familias/"
