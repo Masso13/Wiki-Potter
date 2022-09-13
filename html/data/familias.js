@@ -92,62 +92,62 @@ var familias = [
      {
       nome:"PEVERELL",
       descricao:"Muito antiga e nobre família bruxa. Os Peverell são popularmente conhecidos devido ao Conto dos Três Irmãos. De fato, os primeiros registros do nome Peverell estão presentes neste conto de Beedle. Acerca da veracidade do conto, muitos duvidam do incrível encontro com a Morte, creditando as Relíquias da Morte como apenas grandes criações dos irmãos.Com o passar do tempo, o nome Peverell foi sumindo, devido a separação dos três irmãos. Sendo que apenas é mais provável uma linhagem direta com os Peverell para as gerações posteriores a Cadmo e Ignoto. Pelo fator de transferência da Varinha das Varinhas.",
-      brasao:brasao:"../img/familias/"
+      brasao:"../img/familias/"
    },
    {
       nome:"LEFONTUAR",
       descricao:"Fundada nas proximidades dos séculos IX.Sua existencia tinha sido, aparentemente, existinta até os tempos atuais.De origem francesa, a família é conhecida por sua inteligencia, determinação e quando necessário, a coragem. ",
-      brasao:brasao:"../img/familias/"
+      brasao:"../img/familias/"
    },
    {
       nome:"BRADHUBER ",
       descricao:"Uma família nobre, de puro-sangue, que muito se ouviu falar, e muito ainda ouvirá, muito.",
-      brasao:brasao:"../img/familias/"
+      brasao:"../img/familias/"
    },
    {
       nome:"RUCORN",
       descricao:"Criada em 1868 por Wursten Runcorn e por Elizabeth Runcorn, dando apenas a cada geração dois filhos, sempre cultos, sombrios, espertos e inteligentes, excepcionalmente nenhum membro da família foi de outra comunal á não ser a Sonserina, atualmente a família pertence a 6° geração, o seu membro mais velho de 54 anos Alberto Runcorn e ao seu irmão James Wolf Runcorn de 25 anos. Vivem em meio a luz e as trevas. Não tem ao certo indícios de um Runcorn que tenha se dedicado a apoiar as Trevas nem a Luz, apenas fazer oque lhe acham certo. Vivem em localidade desconhecida, e trocam constantemente de endereço.",
-      brasao:brasao:"../img/familias/"
+      brasao:"../img/familias/"
    },
    {
       nome:"FONTAINE",
       descricao:"Fundada a mais de 300 anos, a família Fontaine possui membros nobres. Gabrielle Delacour (Fontaine atualmente) se casou com Alexander Fontaine e teve com o mesmo 2 filhos: Guilhermina e Tyerri Fontaine. Possui ligações com a família Delacour e Weasley.",
-      brasao:brasao:"../img/familias/"
+      brasao:"../img/familias/"
    },
    {
       nome:"WAINWRIGHT",
       descricao:"A família Wainwright foi construída por Rodolfo Wainwright e sua mulher Cecília, que ambos já estão mortos, mas deixaram um herdeiro, Boyd Wainwright que fundou a mansão Wainwright em Godric's Hollow. Os Wainwright são conhecidos por seu sangue-puro e por sua nobreza que prevalecem. Eles continuam seus estudos em Hogwarts, onde todos os membros caem na sonserina. ",
-      brasao:brasao:"../img/familias/"
+      brasao:"../img/familias/"
    },
    {
       nome:"BKSTONE",
       descricao:"Uma Família que mora numa pequena casa em Hogsmeade, mudou-se a pouco tempo.",
-      brasao:brasao:"../img/familias/"
+      brasao:"../img/familias/"
    },
    {
       nome:"FINNIGAN",
       descricao:"Os Finnigan é uma família simples, todos de bom coração , eles são muito honestos, todos lutam pelo oque desejam, composta por bruxos e mestiço.",
-      brasao:brasao:"../img/familias/"
+      brasao:"../img/familias/"
    },
    {
       nome:"VETTRA",
       descricao:"Do sangue do dragão, descendentes dos Targaryen - um clã à muito extinto. Exibem sua herança em uma beleza notável (alguns diriam até inumana) com olhos lilases, índigos ou violeta e cabelos ouro-prateados ou branco platinados.São conhecidos como Senhores dos Dragões e parecem ser mais chegados a dragões do que qualquer outro homem, fazendo proezas com tais criaturas que nenhum outro bruxo já ousou tentar. A fim de preservar o sangue e mantê-lo puro, a Família Vettra seguiu com frequência o costume Targaryen de praticar um ato horrível: O incesto. Casando irmãos com irmãs, ou primos.Italianos de sangue puro, levam suas heranças e costumes a sério. O lema representa tudo o que eles são: Fogo & Sangue! ",
-      brasao:brasao:"../img/familias/"
+      brasao:"../img/familias/"
    },
    {
       nome:"TIXIMIACE",
       descricao:"A Família Tiximiac, uma família tão antiga quanto se possa imaginar, desde a época de Godric Gryffindor, Helga Hufflepuff, Rowena Ravenclaw e Salazar Slytherin. Uma família impressionante e também de tamanha união. Seus membros sempre foram bruxos malvados assim como poderosos também. Uma família muitíssimo rica, tendo, desde a antiguidade, milhares e milhares de Galeões, assim como taças, objetos de EXTREMO valor e outros EXTREMAMENTE Perigosos, além de sua extrema fortuna.Uma família inteiramente sangue-puro, desde as suas origens.A família é conhecida por muitos bruxos, praticamente todos do mundo bruxo, pois seu Primeiro Lorde é Aro Tiximiace, Lorde das Trevas. A família tem uma bela mansão no interior de uma floresta mágica desconhecida, em uma área inexplorada da Escócia.A Família Tiximiace, além de ser uma família, é um clã vamírico, ou seja, os membros não são parentos consanguineos, pois Aro foi transformando todos ao longo dos séculos. Uma família sinistra, calada, maligna e misteriosa, todos nela são adultos e são do mal. Esta é a Família Tiximiace, e eles tem um lema: " Os Tiximiace Nunca Dão Uma Segunda Chance ",
-      brasao:brasao:"../img/familias/"
+      brasao:"../img/familias/"
    },
    {
       nome:"MCLAGGEN",
       descricao:"A família McLaggen é bem antiga e possui sangue-puro como sempre divulga. São simples e muito modestos embora sua descendência permita luxos. ",
-      brasao:brasao:"../img/familias/"
+      brasao:"../img/familias/"
    },
    {
       nome:"TAYLOR",
       descricao:"A família Taylor é uma família recente e de Sangue Puro, porém misteriosa. Eles prezam a coragem e a bondade, acreditam um dia fazer a diferença no mundo bruxo. Seu fundador ja foi um dia um Auror muito importante, mas por motivos não revelados, se demitiu.  ",
-      brasao:brasao:"../img/familias/"
+      brasao:"../img/familias/"
    },
    {
       nome:"GOYLE",
