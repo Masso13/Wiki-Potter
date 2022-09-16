@@ -1,27 +1,39 @@
 @import url(./default.css);
 
-.item h2 {
-    opacity: 0;
+#banners {
+    display: flex;
+    justify-content: space-around;
+    z-index: 1;
+}
+
+#barra {
     position: absolute;
-    margin-top: 7.5em;
-    left: 45%;
-    transition: all 1.5s;
-    text-decoration-color: var(--vermelho);
+    z-index: 2;
+    background-color: var(--escrita);
+    width: 100%;
+    height: 1em;
 }
 
-.item:hover h2{
-    opacity: 1;
-    font-size: 2.5em;
+.banner {
+    width: 20em;
+    height: 40em;
+    z-index: 3;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
 }
 
-#lugares {
-    background-image: url("../css/imgs/harry_potter_and_the_philosopher_s_stone_fanart_03_by_vladislavpantic_dcmtdg9-fullview.jpg");
+#grifinoria {
+    background-image: url("../img/casas/banner_grifinoria.png");
 }
 
-#varinhas {
-    background-image: url("../css/imgs/olivaras.jpg");
+#sonserina {
+    background-image: url("../img/casas/banner_sonserina.png");
 }
 
-#familias {
-    background-image: url("../css/imgs/family_by_asgaardian_d4a8zhm-fullview.jpg");
+#corvinal {
+    background-image: url("../img/casas/banner_corvinal.png");
+}
+
+#lufalufa {
+    background-image: url("../img/casas/banner_lufalufa.png");
 }

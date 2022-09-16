@@ -11,22 +11,57 @@
     --vermelho: #CF4533;
 }
 
+@font-face {
+    font-family: HarryP;
+    src: url("../css/fonts/harryp.TTF");
+}
+
+body {
+    background-color: var(--fundo);
+}
+
 header {
     display: flex;
     justify-content: space-between;
     align-items: center;
     background-color: var(--cabecalho);
-    padding: 0.5em 1em 0 1em
+    padding: 0.5em 1em 0 1em;
+    margin-bottom: 1em;
 }
 
 nav ul {
     display: none;
 }
 
-nav p:active {
+nav p:hover ul {
     display: block;
 }
 
 h1, h2, p, li {
     color: var(--escrita);
+    font-family: HarryP;
+}
+
+h1 {
+    font-size: 3em;
+}
+
+h2 {
+    font-size: 2em;
+}
+
+.item {
+    width: 100%;
+    height: 40em;
+    background-color: var(--cabecalho);
+    margin-bottom: 8em;
+}
+
+footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top:1em;
+    background-color: var(--cabecalho);
+    height: 3em;
 }
