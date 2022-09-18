@@ -1,0 +1,33 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: var(--cabecalho);
+    padding: 0.5em 1em 0 1em;
+    margin-bottom: 1em;
+    position: fixed;
+    width: 98%;
+    z-index: 4;
+    top: 0;
+}
+
+nav ul {
+    display: none;
+    position: absolute;
+    list-style: none;
+    padding: 1em;
+    background-color: var(--cabecalho);
+}
+
+li {
+    margin-bottom: 1em;
+    
+}
+
+li:hover {
+    text-decoration: underline;
+}
+
+nav:hover ul {
+    display: block;
+}
