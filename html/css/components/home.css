@@ -28,26 +28,18 @@
     cursor: pointer;
 }
 
-#grifinoria {
-    background-image: url("../../img/casas/banner_grifinoria2.png");
-}
+/* -=-=-=-=-=-=-=-=-=-=-=-=-==-= Banners -=-=-=-=-=-=-=-=-==-=-=-=-=-=-=-==-==- */
 
-#sonserina {
-    background-image: url("../../img/casas/banner_sonserina2.png");
-}
+#grifinoria {background-image: url("../../img/casas/banner_grifinoria2.png");}
 
-#corvinal {
-    background-image: url("../../img/casas/banner_corvinal2.png");
-}
+#sonserina {background-image: url("../../img/casas/banner_sonserina2.png");}
 
-#lufalufa {
-    background-image: url("../../img/casas/banner_lufalufa2.png");
-}
+#corvinal {background-image: url("../../img/casas/banner_corvinal2.png");}
 
-#origem {
-    background-image: url("../imgs/hogwarts-trem.jpg");
-}
+#lufalufa {background-image: url("../../img/casas/banner_lufalufa2.png");}
 
-#escritora {
-    background-image: url("../imgs/escritora.jpg");
-}
+/* -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-==-==-=-==-=-=-=-==-=-==-=-=-=-=-=-==-=-=- */
+
+#origem {background-image: url("../../img/home/hogwarts-trem.jpg");}
+
+#escritora {background-image: url("../../img/home/escritora.jpg");}

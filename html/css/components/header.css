@@ -19,15 +19,8 @@ nav ul {
     background-color: var(--cabecalho);
 }
 
-li {
-    margin-bottom: 1em;
-    
-}
+li {margin-bottom: 1em;}
 
-li:hover {
-    text-decoration: underline;
-}
+li:hover {text-decoration: underline;} /* Linha por baixo do texto, quando coloca o mouse por cima do item */
 
-nav:hover ul {
-    display: block;
-}
+nav:hover ul {display: block;} /* Desoculta a lista de itens */
