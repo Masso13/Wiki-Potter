@@ -1,4 +1,4 @@
-const sessao = document.title
+const sessao = document.title.toLocaleLowerCase()
 
 async function criarNavLateral(){
     let lista = document.getElementById("listaLateral")
@@ -24,7 +24,6 @@ async function criarNavLateral(){
 async function criarIntensSessao(){
     let itens = document.getElementById("itens")
     let dados = await pegarDados(sessao).then((data)=>{return data})
-    console.log(document.title)
 
     for (let item of dados){
         let nome = item.nome.toLowerCase()
@@ -32,7 +31,7 @@ async function criarIntensSessao(){
         let div = document.createElement("div")
         div.className = "item explicativo"
         div.id = nome
-        div.style.backgroundImage = `url('../img/familias/fundos/${nome}.jpg')`
+        div.style.backgroundImage = `url('../../img/familias/fundos/${nome}.jpg')`
 
         let h2 = document.createElement("h2")
         h2.className = "fontHarry corTitulo textoCentralizado"
@@ -49,7 +48,7 @@ async function criarIntensSessao(){
 }
 
 async function pegarDados(sessao){
-    let dados = await fetch(`../data/${sessao}.json`)
+    let dados = await fetch(`../../data/${sessao}.json`)
     dados = await dados.json().then((data)=>{
         return data}
         )
