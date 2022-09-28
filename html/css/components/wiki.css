@@ -1,0 +1,24 @@
+#itens {
+    position: absolute;
+    left: 18%;
+    width: 80%;
+}
+
+aside {
+    padding-left: 1em;
+    width: 15%;
+    height: 100%;
+    position: fixed;
+    top: 3.5em;
+    background-color: var(--cabecalho);
+    overflow: auto;
+}
+
+aside ul {
+    list-style: none;
+}
+
+aside h2 {
+    margin-bottom: 0.5em;
+    margin-top: 0.5em;
+}

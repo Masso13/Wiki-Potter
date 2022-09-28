@@ -20,7 +20,7 @@
 
 ::-webkit-scrollbar {width: 0.5em;}
 
-::-webkit-scrollbar-track {background-color: var(--fundo);}
+::-webkit-scrollbar-track {background-color: var(--cabecalho);}
 
 ::-webkit-scrollbar-thumb {
     background: var(--bege);
