@@ -1,121 +1,35 @@
-{
-    "livros": [
-        {
-            "nome": "Harry Potter e a Pedra Filosofal",
-            "descricao": "Somos apresentados a um garoto tímido, uma espécie de gata borralheira. Ele mora embaixo de um armário, é maltratado pelos tios, usa apenas roupas usadas do primo, óculos quebrados e é tratado como estorvo.Ao completar 11 anos, uma série de eventos estranhos começam a acontecer. Ele recebe uma carta (o que nunca ocorrera antes) que logo é extraviada pelo seu tio. Diversas corujas começam a chegar diariamente à casa em que mora, mas todas as cartas são capturadas pelo tio, até que ele leva a família, e Harry junto, para um endereço secreto (para fugir das cartas).Lá, teremos a primeira grande revelação de toda a saga de Harry Potter. Um homem gigante chamado Hagrid encontra-os e entrega a carta pessoalmente à Harry. Nosso protagonista continua sem entender nada e o portador das notícias revela que ele era um bruxo. A carta era um convite para que estudasse na mais prestigiada escola de magia do país, chamada Hogwarts. Um novo mundo se abre para o mais novo bruxo do pedaço. Nesse universo, nosso protagonista é filho de um casal que foi assassinado por uma poderoso bruxo (o que não deve ser nomeado). Não apenas isso, mas Harry é catapultado para um mundo onde ele é famoso por ter sido justamente o único a ter sobrevivido a um ataque de Voldemort (vilão que nunca mais fora visto desde então). Somos apresentados a varios elementos fantásticos, como uma estação de trem escondida em King’s Cross e a posterior viagem para Hogwarts em que Harry conhece seus melhores amigos – Rony Weasley e Hermione (eles irão acompanhá-lo em suas aventuras até o último volume da ordem dos livros de Harry Potter). Outros personagens importantes começam a ser introduzidos já nesse livro, como o mago Dumbledore, Snape e o rival de Potter – Draco Malfoy. Também acompanharemos a escolha de Harry para a casa de Grifindória (o que é um fato importatíssimo na sequencia da obra). Além das diversas descobertas feitas ao sermos inseridos no universo da escola, Harry e seus amigos irão ter um reencontro com o principal vilão da série que está atrás justamente do elemento que nomeia esse livro – A Predra Filosofal!",
+
+[
+    {
+        "nome": "Sobre",
+        "descricao": "A Biblioteca de Hogwarts está localizada em um corredor no primeiro andar do castelo de Hogwarts e contém dezenas de milhares de livros sobre milhares de prateleiras. Supervisionada por Madame Irma Pince, a biblioteca é o lugar onde os alunos podem ir para ler ou pegar livros emprestados para complementar seus estudos (ou para entretenimento pessoal). A biblioteca fecha às 20:00.",
+        "fundo": ""
+    },
+    {
+        "nome": "Segurança",
+        "descricao": "Os livros da biblioteca tem vários feitiços sobre eles para impedir os estudantes de desfigura-los ou roubá-los. Hermione Granger arrancou uma página de um livro da biblioteca sobre criaturas mágicas sem ser azarada, amaldiçoada, ou enfeitiçada pelo livro. Como ela fez isso é desconhecido. Chocolate e (presumivelmente), os outros alimentos, são proibidos na biblioteca. Alunos e professores podem tirar livros da biblioteca, com a permissão da bibliotecário. Livros da Seção Restrita exigem uma nota assinada por um professor. Professor Severo Snape disse a Harry Potter que era contra as regras para levar um livro da biblioteca fora do castelo. No entanto, ele pode ter feito isso apenas para poder tirar pontos dele.",
+        "fundo": ""
+    },
+    {
+            "nome": "Seção de Dragões",
+            "descricao": "A Seção de Dragões é uma área na Biblioteca de Hogwarts. Os livros dentro desta seção estão relacionados a dragões e sobre como cuidar deles.",
             "fundo": ""
-        },
-        {
-            "nome": "Harry Potter e a Câmara Secreta",
-            "descricao": "Harry Potter e a Câmara Secreta é o livro 2 da sequência de Harry Potter. Depois de férias aborrecidas na casa dos tios trouxas, está na hora de Harry Potter voltar a estudar. No entanto, a tradicional estação secreta em King’s Cross está fechada por obra de um duende que quer impedir que Harry compareça à escola (ele e Rony são obrigados a roubar o carro de Arthur Weasley para chegar lá). Nesse livro, temos uma série de alunos sendo petrificados e, a cada acontecimento, uma mensagem sobre a Câmera Secreta é deixada nos corredores – o que instiga nossos protagonistas a descobrirem do que se trata esse cômodo (que era tido até então como lenda). Uma das cenas mais importantes do livro é quando Harry começa a comandar o ataque de uma cobra a um aluno aleatório e a escola percebe que ele consegue falar com esse tipo de animal. Tal linguagem é geralmente associada a alunos da casa de Sonserina e desperta muita desconfiança por ser uma habilidade dominada pelo Lord Voldemort. A seguir daremos um grande SPOILER que foi talvez a segunda maior revelação da ordem dos livros de Harry Potter. Nesse livro descobrimos o nome verdadeiro de Lord Voldemort (Tom Riddle), que ele pertencera à casa de Sonserina e que havia deixado um diário que foi achado por uma das nossas personages secundárias mais importantes da saga – e que criou uma espécie de feitiço nela. Se você conhecer alguém que recentemente começou a ler Harry Potter e gostaria da sequência, esse é o livro que você deve escolher para presente.",
-            "fundo": ""
-        },
-        {
-            "nome": "Harry Potter e o Prisioneiro de Azkaban",
-            "descricao": "Para mim o melhor livro da série, Harry Potter e o prisioneiro de Azkaban trata do ressurgimento de Sirius Black, importante personagem da história que até então estava preso em Azakaban. É o terceiro volume da ordem de livros de Harry Potter. As aulas estão de volta à Hogwarts e Harry Potter não vê a hora de embarcar no expresso a vapor que o levará de volta à escola de bruxaria. Mais uma vez suas férias na rua dos Alfeneiros foi triste e solitária. Esse livro é incrível e tem tantos elementos novos que me faz ter um carinho especial por essa obra. Somos apresentados ao Mapa do Maroto. Acompanhamos Harry até Hogsmeade utilizando a capa da invisibilidade de seu pai para acompanhar seus amigos e descobriremos toda a verdade até então encoberta sobre Sirius, Lupin, Pedro Petrigrew e Tiago Potter – conhecemos seus apelidos de infância (Almofadinhas, Aluado, Rabicho e Pontas)-, veremos incríveis cenas de lutas entre Lupin, Sirius, Rabicho, Snape e nossos protagonistas principais. Por fim, veremos Harry conjurar pela primeira vez o seu feitiço patrono.",
-            "fundo": ""
-        },
-        {
-            "nome": "Harry Potter e o Cálice de Fogo",
-            "descricao": "Harry Potter e o cálice de fogo é o quarto livro da sequência de Harry Potter. Nesta aventura, o feiticeiro cresceu e está com 14 anos. O início do ano letivo de Harry Potter reserva muitas emoções, mágicas, e acontecimentos inesperados, além de um novo torneio em que os alunos de Hogwarts terão de demonstrar todas as habilidade mágicas e não mágicas que vêm adquirindo ao longo de suas vidas. A competição chama-se Torneio Tribruxo e é um campeonato entre as três maiores escolas de magia da Europa: Academia de Magia Beauxbatons, Escola de Magia e Bruxaria de Hogwarts e Instituto Durmstrang, cada escola sendo representada por um Campeão. O livro todo será abordando esse campeonato e, obviamente, nosso protagonista não poderia ficar de fora. O Torneio, no passado, era conhecido por ser extremamente perigoso, pois diversos campeões morreram enquanto competiam, e foi interrompido após 1792, devido ao elevado número de fatalidades. Em 1994, o torneio foi reativado com restrições – todos os candidatos deveria ter, no mínimo, 17 anos. Esse torneio estaria sendo presidido por Bartô Crouch. Durante a Festa do Dia das buxas, Dumbledore presidiu a seleção dos Campeões. Os selecionados foram: Vítor Krum, do Instituto Durmstrang, Fleur Delacour da Academia de Magia Beauxbatons e Cedrico Diggory como o campeão de Hogwarts. Os Campeões deixaram o Salão Principal para receber mais instruções. Mas, em um ato surpreendente, o Cálice cuspiu um quarto nome: Harry Potter. O restante da escola ficou pasma com a situação. Aos organizadores está claro que o Cálice havia sido enfeitiçado por uma bruxo muito poderoso para que o nome de Harry fosse incluído ali, porém como esse ato se trata de um contato sagrado, nosso protagonista estaria obrigado a participar da competição. Os outros alunos de Hogwarts, no entanto, desconfiam que fora o próprio Harry quem havia colocado o seu nome, inclusive Rony que se afasta do amigo. Além disso, teremos a aproximação de Harry com Professor Moody, os incríveis desafios do torneio, revelações impactantes sobre o filho de Bartô Crouch e a primeira morte trágica de um dos protagonistas de um livro da saga.",
-            "fundo": ""
-        },
-        {
-            "nome": "Harry Potter e a Ordem da Fênix",
-            "descricao": "Harry Potter e a ordem de fênix é o quinto livro da sequência de Harry Potter. A partir deste livro começa a ficar claro que a autora observou que sua audiência estava crescendo, ou seja, deixando de ser adolescente e se tornando adulta, e paulatinamente os livros vão ganhando uma temática e escrita mais voltada para esse público. Aos 15 anos, Harry continua sofrendo a rejeição dos Dursdley, sua estranha família no mundo dos ‘trouxas’. Também continua contando com Rony Weasley e Hermione Granger, seus melhores amigos em Hogwarts, para levar adiante suas investigações e aventuras. Mas o bruxinho começa a sentir e descobrir coisas novas, como o primeiro amor e a sexualidade. Nos volumes anteriores, J. K. Rowling mostrou como Harry foi transformado em celebridade no mundo da magia por ter derrotado, ainda bebê, Voldemort, o poderoso bruxo das trevas que assassinou seus pais. Neste quinto livro da saga de Harry Potter, o protagonista, numa crise típica da adolescência, tem ataques de mau humor com a perseguição da imprensa, que o segue por todos os lugares e chega a inventar declarações que nunca deu. Harry vai enfrentar as investidas de Voldemort sem a proteção de Dumbledore, já que o diretor de Hogwarts é afastado da escola. E vai ser sem a ajuda de seu protetor que o jovem herói enfrentará descobertas sobre a personalidade controversa de seu pai, Tiago Potter, e a morte de alguém muito próximo. Sobre o nome que é dado ao livro, A Ordem da Fênix foi uma organização secreta fundada por Alvo Dumbledore no intuito de se opor a Lorde Voldemort e a seus Comensais da Morte. Quando, após os acontecimentos do quarto livro, o diretor de Hogwarts descobre que Aquele Que Não Deve Ser Nomeado estava de volta, a organização é reativada, mesmo a contragosto do Ministério da Magia, que se recusava a admitir a volta do vilão. A Ordem será a responsável por defender Harry e por travar batalhas intensas contra os Comensais da Morte durante o livro.",
-            "fundo": ""
-        },
-        {
-            "nome": "Harry Potter e o Enigma do Príncipe",
-            "descricao": "Harry Potter e o enigma do príncipe é o sexto livro da sequência de Harry Potter. Ele dá continuidade à saga do jovem bruxo a partir do ponto em que o livro anterior parou o momento em que fica provado que o poder de Voldemort e dos Comensais da Morte, seus seguidores, cresce mais a cada dia, em meio à batalha entre o bem e o mal. A onda de terror provocada pelo Lorde das Trevas estaria afetando, até mesmo, o mundo dos trouxas, e sendo agravada pela ação dos dementadores, criaturas mágicas aterrorizantes que ‘sugam’ a esperança e a felicidade das pessoas. Harry, que acabou de completar 16 anos, parte rumo ao sexto ano na Escola de Magia e Bruxaria de Hogwarts, animado e ao mesmo tempo apreensivo com a perspectiva de ter aulas particulares com o professor Dumbledore, o diretor da escola e o bruxo mais respeitado em toda comunidade mágica. Dois atentados contra a vida de estudantes, a certeza de Harry quanto ao envolvimento de Draco Malfoy com os Comensais da Morte e o comportamento de Snape, suspeito como sempre, adicionam ainda mais tensão ao já inquietante período. Apesar de tudo isso, Harry e os amigos são adolescentes típicos dividem tarefas escolares e dormitórios bagunçados, correm das aulas para os treinos de quadribol, e namoram. Esse livro guarda uma surpresa eletrizante sobre quem, de fato, era o Príncipe Mestiço (que havia feito as anotações no livro que estava sendo utilizado por Harry para ser o melhor aluno da aula de poções). Além disso, Harry está perseguindo ser o melhor aluno da aula de poções por um pedido de Dumbledore, o qual precisava saber de um segredo de Horácio Slughorn, que lecionava a cadeira.",
-            "fundo": ""
-        },
-        {
-            "nome": "Harry Potter e as Relíquias da Morte",
-            "descricao": "Harry Potter e as relíquias da morte é o sétimo e último livro da sequência de Harry Potter. Aqui a temática do livro abandona completamente a ligação ainda infanto-juvenil e se conecta muito com temas mais pesado e adultos. É neste livro que conseguimos ver também explicitamente a inspiração na saga O Senhor dos Anéis, inclusive uma das relíquias da morte é um anel. Voldemorte está cada vez mais forte e Harry Potter precisa encontrar e aniquilar as Horcruxes para enfraquecer o lorde e poder enfrentá-lo. Nessa busca desenfreada, contando apenas com os amigos Rony e Hermione, Harry descobre as Relíquias da Morte, que serão úteis na batalha do bem contra o mal. SPOILER: O livro termina com a Batalha de Hogwarts que elimina Tom Riddle pelas mãos de Harry Potter mais uma vez, sendo uma vitória decisiva a Ordem de Fênix e seus aliados.",
-            "fundo": ""
-        },
-        {
-            "nome": "Animais Fantásticos e Onde Habitam",
-            "descricao": " O roteiro original é uma aventura nova e emocionante que apresenta uma variedade de personagens e criaturas mágicas. O livro marca a estreia como roteirista para o cinema da autora da adorada série Harry Potter e chega às prateleiras em edição de luxo, com capa dura e miolo em papel off-white. ‘Animais fantásticos e onde habitam leva os fãs de volta ao mundo mágico de Harry Potter, ao mesmo tempo em que os convida a conhecer novos personagens e a viver novas aventuras.",
-            "fundo": ""
-        },
-        {
-            "nome": "Animais fantásticos – Os crimes de Grindelwald",
-            "descricao": "No final de Animais Fantásticos e Onde Habitam, o poderoso bruxo das trevas Gerardo Grindelwald foi capturado em Nova York com a ajuda de Newt Scamander. Mas Grindelwald, cumprindo sua ameaça, foge da prisão e passa a reunir seguidores, cuja maioria não suspeita de suas verdadeiras intenções: criar bruxos puro-sangue para governar todos os seres não mágicos. Tentando frustrar os planos de Grindelwald, Alvo Dumbledore arregimenta Newt, ex-aluno de Hogwarts, que concorda em ajudar mais uma vez, sem saber dos perigos que tem pela frente. Limites serão traçados e o amor e a lealdade serão testados, até entre os amigos e familiares mais fiéis e confiáveis, em um mundo bruxo cada vez mais dividido. Segundo roteiro original assinado por J.K. Rowling, com design de capa do estúdio MinaLima, Animais Fantásticos: os crimes de Grindelwald complementa os acontecimentos que ajudaram a dar forma ao Mundo Bruxo, com algumas referências surpreendentes às histórias de Harry Potter que deliciarão os fãs dos livros e filmes da série.",
-            "fundo": ""
-        },
-        {
-            "nome": "Animais Fantásticos: os segredos de Dumbledore",
-            "descricao": "O professor Alvo Dumbledore sabe que Gerardo Grindelwald, o poderoso bruxo das trevas, está se movimentando para assumir o controle do mundo bruxo. Incapaz de detê-lo sozinho, Dumbledore confia no magizoologista Newt Scamander para liderar uma equipe composta por valentes bruxos e por um corajoso padeiro trouxa em uma missão perigosa, na qual encontram novas e velhas criaturas fantásticas e enfrentam a crescente legião de seguidores de Grindelwald.",
-            "fundo": ""
-        },
-        {
-            "nome": "Os Contos de Beedle, o Bardo",
-            "descricao": "‘Os contos de Beedle, o Bardo’, livro que aparece em Harry Potter e as Relíquias da Morte como um presente do mestre Dumbledore para Hermione, reúne cinco textos escritos e ilustrados por Rowling. Trata-se de uma coletânea de contos de fadas dos bruxos, trazendo histórias sobre o passado de Hogwarts e nomes já conhecidos dos fãs da série Harry Potter. Repleto de magia e truques, esses contos clássicos ao mesmo tempo entretêm e instruem, permanecendo tão cativantes para os jovens bruxos de hoje quanto eram quando Beedle usou pena e pergaminho para escrevê-los no século XV. Há cinco contos ao todo: “O conto dos três irmãos”, “A fonte da sorte”, “O coração peludo do mago”, “O bruxo e o caldeirão saltitante” e “Babbity, a coelha e seu toco gargalhante” completam a coleção. Essas joias narrativas são acompanhadas de notas explicativas feitas pelo professor Alvo Dumbledore (retiradas do arquivo do Diretor de Hogwarts com sua gentil permissão). Suas considerações esclarecedoras revelam que as histórias são muito mais do que simples contos morais, fazendo Babbity e o Caldeirão Saltitante serem tão familiares para os trouxas quanto a Branca de Neve e a Cinderela.",
-            "fundo": ""
-        },
-        {
-            "nome": "Quadribol através dos séculos",
-            "descricao": "Se você algum dia quis saber como surgiu o pomo de ouro ou por que o time dos Vagamundos de Wigtown (Wigtown Wanderers) tem a estampa de um cutelo de açougueiro no uniforme, você precisa ler Quadribol através dos séculos (Quidditch throught the ages). Esta edição limitada é uma cópia do exemplar guardado na Biblioteca Escolar de Hogwarts e consultado por jovens fãs do quadribol quase diariamente.",
-            "fundo": ""
-        }
-    ],
-    "filmes": [
-        {
-            "nome": "Harry Potter e a Pedra filosofal",
-            "descricao": "Harry Potter é um garoto órfão que vive infeliz com seus tios, os Dursleys. Ele recebe uma carta contendo um convite para ingressar em Hogwarts, uma famosa escola especializada em formar jovens bruxos. Inicialmente, Harry é impedido de ler a carta por seu tio, mas logo recebe a visita de Hagrid, o guarda-caça de Hogwarts, que chega para levá-lo até a escola. Harry adentra um mundo mágico que jamais imaginara, vivendo diversas aventuras com seus novos amigos, Rony Weasley e Hermione Granger.",
-            "fundo": "aqui"
-        },
-        {
-            "nome": "Harry Potter e a Câmara Secreta",
-            "descricao": "Após as sofríveis férias na casa dos tios, Harry Potter se prepara para voltar a Hogwarts e começar seu segundo ano na escola de bruxos. Na véspera do início das aulas, a estranha criatura Dobby aparece em seu quarto e o avisa de que voltar é um erro e que algo muito ruim pode acontecer se Harry insistir em continuar os estudos de bruxaria. O garoto, no entanto, está disposto a correr o risco e se livrar do lar problemático.",
-            "fundo": "aqui"
-        },
-        {
-            "nome": "Harry Potter e o Prisioneiro de Azkaban",
-            "descricao": "É o início do terceiro ano na escola de bruxaria Hogwarts. Harry, Ron e Hermione têm muito o que aprender. Mas uma ameaça ronda a escola e ela se chama Sirius Black. Após doze anos encarcerado na prisão de Azkaban, ele consegue escapar e volta para vingar seu mestre, Lord Voldemort. Para piorar, os Dementores, guardas supostamente enviados para proteger Hogwarts e seguir os passos de Black, parecem ser ameaças ainda mais perigosas.",
-            "fundo": "aqui"
-        },
-        {
-            "nome": "Harry Potter e o cálice de fogo",
-            "descricao": "Harry retorna para seu quarto ano na Escola de Magia e Bruxaria de Hogwarts, junto com os seus amigos Ron e Hermione. Desta vez, acontece um torneio entre as três maiores escola de magia, com um participante selecionado de cada escola, pelo Cálice de Fogo. O nome de Harry aparece, mesmo não tendo se inscrito, e ele precisa competir.",
-            "fundo": "aqui"
-        },
-        {
-            "nome": "Harry Potter e a ordem da Fênix",
-            "descricao": "Após um verão desastroso, Harry volta para o seu quinto ano em Hogwarts, um dos mais difíceis que terá de encarar. Pouquíssimos alunos e pais acreditam nele ou em Dumbledore sobre a volta de Voldemort, e uma série interminável de artigos circula dizendo que eles estão completamente malucos. Ainda por cima, Dolores Umbridge, a nova professora de Defesa Contra as Artes das Trevas, prova ser a pessoa mais repugnante que Harry já conheceu.",
-            "fundo": "aqui"
-        },
-        {
-            "nome": "Harry Potter e o Enigma do Príncipe",
-            "descricao": "No sexto ano de Harry em Hogwarts, Lord Voldemort e seus Comensais da Morte estão criando o terror nos mundos bruxo e trouxa. Dumbledore convence seu velho amigo Horácio Slughorn para retornar a Hogwarts como professor de poções após Harry encontrar um estranho livro escolar. Draco Malfoy se esforça para realizar uma ação destinada por Voldemort, enquanto Dumbledore e Harry secretamente trabalham juntos a fim de descobrir o método para destruir o Lorde das Trevas uma vez por todas.",
-            "fundo": "aqui"
-        },
-        {
-            "nome": "Harry Potter e as relíquias da morte parte 1",
-            "descricao": "Sem a orientação e proteção de seus professores, Harry, Rony e Hermione iniciam uma missão para destruir as horcruxes, que são as fontes da imortalidade de Voldemort. Embora devam confiar um no outro mais do que nunca, forças das trevas ameaçam separá-los. Os Comensais da Morte de Voldemort tomaram o controle do Ministério da Magia e de Hogwarts, e eles estão procurando por Harry enquanto ele e seus amigos se preparam para o confronto final.",
-            "fundo": "aqui"
-        },
-        {
-            "nome": "Harry Potter e as Relíquias da Morte: Parte 2",
-            "descricao": "O confronto entre o bem e o mal espera pelo jovem Harry, que se prepara ao lado de Rony e Hermione para a batalha final contra Lord Voldemort. Harry se transformou em um garoto de aço em uma missão para livrar o mundo do mal. Os amigos devem procurar pelas últimas horcruxes que mantêm o covarde feiticeiro imortal.",
-            "fundo": "aqui"
-        },
-        {
-            "nome": "Animais Fantásticos e Onde Habitam",
-            "descricao": "Um excêntrico magizoologista carrega uma maleta cheia de animais mágicos coletados durante suas viagens pelo mundo. As criaturas acabam saindo de sua mala em Nova York, e agora ele precisa usar suas habilidades para capturá-las.",
-            "fundo": "aqui"
-        },
-        {
-            "nome": "Animais Fantásticos: Os Crimes de Grindelwald",
-            "descricao": "Newt Scamander reencontra os queridos amigos Tina Goldstein, Queenie Goldstein e Jacob Kowalski. Ele é recrutado pelo seu antigo professor em Hogwarts, Alvo Dumbledore, para enfrentar o terrível bruxo das trevas Gellert Grindelwald, que escapou da custódia da Macusa (Congresso Mágico dos EUA) e reúne seguidores, dividindo o mundo entre seres de magos sangue puro e seres não-mágicos.",
-            "fundo": "aqui"
-        },
-        {
-            "nome": "Animais Fantásticos: Os Segredos de Dumbledore",
-            "descricao": "O professor Alvo Dumbledore (Jude Law) sabe que o poderoso mago das trevas Gellert Grindelwald (Mads Mikkelsen) está se movimentando para assumir o controle do mundo mágico. Incapaz de detê-lo sozinho, ele pede ao magizoologista Newt Scamander (Eddie Redmayne) para liderar uma intrépida equipe de bruxos, bruxas e um corajoso padeiro trouxa em uma missão perigosa, em que eles encontram velhos e novos animais fantásticos e entram em conflito com a crescente legião de seguidores de Grindelwald. Mas com tantas ameaças, quanto tempo poderá Dumbledore permanecer à margem do embate?",
-            "fundo": "aqui"
-        }
-    ]
-}
+    },
+    {
+        "nome": "Seção de Referências",
+        "descricao": "A Seção de Referências' é uma área na Biblioteca de Hogwarts. Esta seção inclui vários livros que são fontes de informação sobre assuntos diferentes. De acordo com Alvo Dumbledore, esta seção abrange contra-maldições.",
+        "fundo": ""
+    },
+    {
+        "nome": "Seção Jurídica",
+        "descricao": "A Seção Jurídica é uma área impopular na Biblioteca de Hogwarts. Os livros desta seção discutem a lei bruxa.",
+        "fundo": ""
+    },
+    {
+        "nome": "Seção Reservada",
+        "descricao": "A Seção Reservada, ou Seção Restrita, é uma área na Biblioteca de Hogwarts, fechada por uma corda. Livros nesta seção podem ser raros, valiosos e/ou considerados inadequados para os estudantes mais jovens. Os estudantes só podem verificar um livro desta seção se eles tiverem uma nota de permissão de um professor. Não está claro se todos os estudantes precisam de uma nota, ou apenas os mais jovens que ainda não atingiram o nível NIEM. O bibliotecário irá pegar o livro para o aluno. Mais uma vez, esta regra pode não ser aplicada para os alunos mais velhos.",
+        "fundo": ""
+    }
+
+    
+]
