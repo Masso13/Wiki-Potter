@@ -1,4 +1,3 @@
-
 [
     {
         "nome": "Sobre",
@@ -11,9 +10,9 @@
         "fundo": ""
     },
     {
-            "nome": "Seção de Dragões",
-            "descricao": "A Seção de Dragões é uma área na Biblioteca de Hogwarts. Os livros dentro desta seção estão relacionados a dragões e sobre como cuidar deles.",
-            "fundo": ""
+        "nome": "Seção de Dragões",
+        "descricao": "A Seção de Dragões é uma área na Biblioteca de Hogwarts. Os livros dentro desta seção estão relacionados a dragões e sobre como cuidar deles.",
+        "fundo": ""
     },
     {
         "nome": "Seção de Referências",
@@ -30,6 +29,4 @@
         "descricao": "A Seção Reservada, ou Seção Restrita, é uma área na Biblioteca de Hogwarts, fechada por uma corda. Livros nesta seção podem ser raros, valiosos e/ou considerados inadequados para os estudantes mais jovens. Os estudantes só podem verificar um livro desta seção se eles tiverem uma nota de permissão de um professor. Não está claro se todos os estudantes precisam de uma nota, ou apenas os mais jovens que ainda não atingiram o nível NIEM. O bibliotecário irá pegar o livro para o aluno. Mais uma vez, esta regra pode não ser aplicada para os alunos mais velhos.",
         "fundo": ""
     }
-
-    
 ]
