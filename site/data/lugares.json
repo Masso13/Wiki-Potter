@@ -1,7 +1,67 @@
 [
     {
-        "nome": "",
-        "descricao": "",
-        "fundo": ""
+        "nome": "Academia de Magia Beauxbatons",
+        "descricao": "Suas principais características são o requinte e a sofisticação, o que já pode ser observado pelo meio de transporte que utilizaram para chegar a Hogwarts para o Torneio Tribruxo: uma carruagem voadora, do tamanho de um casarão, puxada por 12 enormes cavalos alados. Além disso, a beleza e o esplendor parece ser um traço marcante nos alunos da escola.",
+        "fundo": "../../img/lugares/beauxbatons.jpg"
+    },
+    {
+        "nome": "Instituto Durmstrang",
+        "descricao": "É uma instituição de ensino da magia situada no norte da Europa, provavelmente na região da Escandinávia (Dinamarca, Noruega e Suécia), não se sabe o país exato onde o Instituto se situa, não se sabe também a data de sua fundação e Durmstrang é uma das três escolas europeias que participam do Torneio Tribruxo",
+        "fundo": "../../img/lugares/durmstrang.jpg"
+    },
+    {
+        "nome": "Casa dos Black",
+        "descricao": "A Casa dos Black é muito antiga, habitada por Walburga e Orion Black, patriarcas da nobre e purista Família Black, e pais de Sirius Black e de Regulus Black. A casa em si apresenta uma arquitetura semelhante com a do século XIX mas está muito maltratada, as paredes estão sujas e as janelas, opacas de fuligem. A casa é escondida do olhar dos trouxas pelo encantamento Fidelius charm, e fica espremida entre duas residências de trouxas. São poucos os bruxos que conseguem vê-la também.",
+        "fundo": "../../img/lugares/black.webp"
+    },
+    {
+        "nome": "Beco Diagonal",
+        "descricao": "O Beco é o lugar onde os bruxos vão para fazer suas compras, que incluem 'caldeirões de todos os tamanhos', até animais de estimação, como ratos, corujas e sapos. O Caldeirão Furado, bar que serve de entrada para o Beco, fica na rua Charing Cross, em Londres.",
+        "fundo": "../../img/lugares/beco_diagonal.jpg"
+    },
+    {
+        "nome": "Estação de King's Cross",
+        "descricao": "É uma estação de trem que fica em Londres. É lá que a plataforma 9 3/4 fica. Essa plataforma está em uma coluna que divide as plataformas 9 e 10 da estação. Ao se atravessar a barreira consegue-se ir para o trem que leva os alunos para Hogwarts.",
+        "fundo": "../../img/lugares/kingscross.jpg"
+    },
+    {
+        "nome": "Floresta Proibida",
+        "descricao": "É a floresta densa que fica nos terrenos de Hogwarts, é mais uma das formas de proteger a escola. É proibida para os alunos devido aos animais e criaturas perigosos para os estudantes sendo permitida a entrada apenas quando acompanhados de professores nas aulas de Trato das Criaturas Mágicas e cumprindo detenções. Úmida, densa, escura e aterradora, a floresta da propriedade é o esconderijo de criaturas e espécies curiosas, algumas nenhum pouco amistosas. É o território de centauros, unicórnios, testrálios, lobisomens, assim como as outras criaturas noturnas. Suas árvores são grandes e antigas, algumas de troncos musgosos e retorcidos, outras largas e nodosas, outras delgadas e compridas. Suas copas densas bloqueiam a luz da Lua com tamanha eficiência, que em certos pontos é totalmente impossível se enxergar a um palmo na frente do nariz.",
+        "fundo": "../../img/lugares/floresta.jpg"
+    },
+    {
+        "nome": "Hogsmeade",
+        "descricao": "A vila foi fundada mais ou menos junto com Hogwarts, pelo bruxo Hengist de Woodcroft, que fugia da perseguição dos trouxas. A vila serviu como quartel-general dos bruxos contra a Rebelião dos Duendes em 1612. Está localizada a noroeste da Escola de Magia e Bruxaria de Hogwarts Talvez seja por isso que existam tantas passagens secretas entre a vila e a escola, encontradas pelos Marotos.",
+        "fundo": "../../img/lugares/hogsmeade.jpg"
+    },
+    {
+        "nome": "Hospital St. Mungus para Doenças e Acidentes Mágicos",
+        "descricao": "A população bruxa da Grã Bretanha que apresenta problemas de saúde é levada ao Hospital. Alunos de Hogwarts só vão ao Hospital quando o problema é muito grave e Madame Pomfrey, a curandeira da Ala Hospitalar da escola, não consegue resolver.",
+        "fundo": false
+    },
+    {
+        "nome": "Lago de Hogwarts",
+        "descricao": "Lago pertencente aos terrenos de Hogwarts. Vivem nele sereianos, lulas e outros Seres Mágicos.",
+        "fundo": "../../img/lugares/lago.jpg"
+    },
+    {
+        "nome": "Ministério da Magia Britânico",
+        "descricao": "Localizado em Londres, Inglaterra, é nele que são definidas as leis para a manutenção da ordem no mundo bruxo na Grã-Bretanha e do equilíbrio nas relações políticas com os trouxas.",
+        "fundo": "../../img/lugares/ministerio.jpg"
+    },
+    {
+        "nome": "Prisão de Azkaban",
+        "descricao": "É a prisão do universo Harry Potter, numa ilha cercada pelas águas congelantes do Mar do Norte. É chamada também de Fortaleza de Azkaban. É uma prisão de segurança máxima para onde são enviados os criminosos do mundo mágico.",
+        "fundo": "../../img/lugares/azkaban.jpg"
+    },
+    {
+        "nome": "Borgin & Burkes",
+        "descricao": "É a principal loja a ser mencionada porque além de ser a maior delas, localizada no número 13B, tem muitas ligações com toda a história. Foi fundada por Caractacus Burke, descrito como um homem baixinho com um cabelo emaranhado que cobria seus olhos; e Borgin, um homem escorregadio, adulador e de voz baixa. Ele deveria persuadir as pessoas a entregarem seus tesouros para a loja vender.",
+        "fundo": "../../img/lugares/borginburke.jpg"
+    },
+    {
+        "nome": "Banco Gringotes",
+        "descricao": "É o banco, com filiais em vários países. Ele fica num edifício de mármore branco, localizado no Beco Diagonal. Gringotes é o lugar mais seguro do mundo para guardar qualquer coisa que você quer que fique segura – com exceção talvez de Hogwarts. Esse banco é administrado pelos duendes e seus cofres se localizam centenas de quilômetros sob o solo. Inclusive existe uma lenda (ou verdade) que os guardiões dos cofres de segurança subterrâneos são dragões.",
+        "fundo": "../../img/lugares/gringotes.jpg"
     }
 ]

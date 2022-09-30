@@ -61,7 +61,7 @@ function criaItemSessao(item, itens) {
     if (item.fundo) {
         div.style.backgroundImage = `url(${item.fundo})`
     } else {
-        div.style.backgroundImage = `url('../../img/semcategoria/img${Math.floor(Math.random() * (5 - 1) + 1)}.jpg')`
+        div.style.backgroundImage = `url('../../img/semcategoria/img${Math.floor(Math.random() * (10 - 1) + 1)}.jpg')`
     }
 
     let h2 = document.createElement("h2")
