@@ -1,7 +1,37 @@
 [
     {
-        "nome": "",
-        "descricao": "",
-        "fundo": ""
+        "nome": "Varinha",
+        "descricao": "Uma varinha é um instrumento mágico quase consciente pelo qual uma bruxa ou bruxo (escolhido pela varinha) canaliza seus poderes mágicos. A maioria dos feitiços é feita com a ajuda de uma varinha, mas é possível utilizar feitiços sem varinha. Magia sem varinha é, porém, muito difícil e requer muita concentração e considerável habilidade; apenas bruxos realmente avançados sabem fazer essa forma de magia. Normalmente, a magia com varinha é usada com um encantamento, mas feitiços não-verbais são também possíveis para bruxos com mais experiência e são melhores para duelos, porque o oponente não terá jeito de saber qual será o feitiço lançado e pode não ser capaz de proteger-se adequadamente a tempo. Varinhas são chamadas de 'quase conscientes' porque elas são o mais próximo de animado do que um ser inanimado pode chegar. Provavelmente é porque elas são cheias de magia.",
+        "fundo": "../../img/varinhas/varinha.jpg"
+    },
+    {
+        "nome": "A Varinha das Varinhas",
+        "descricao": "A Varinha das Varinhas, também conhecida como Varinha Anciã, Varinha do Destino, Varinha da Morte e Varinha de Sabugueiro,  é uma das Relíquias da Morte. Seu primeiro Mestre foi Antíoco Peverell que a recebeu da própria Morte. É uma varinha incomum, inquebrável e invencível. Aquele que a detiver juntamente a Capa da Invisibilidade (Relíquia) e a Pedra da Ressurreição, será tido como o Senhor da Morte. Diz-se de ser a mais poderosa varinha que já existiu, capazes de realizar proezas de magia que normalmente seriam consideradas impossíveis, tais como remendar uma outra varinha danificado além do reparo mágico normal. Sabe-se que o núcleo da Elder Wand é o cabelo rabo de um Testrálio, uma poderosa, mas complicada substância que só pode ser tratada por uma bruxa ou bruxo que é capaz de aceitar a morte, uma vez que apenas por tal ele pode ser visto.",
+        "fundo": "../../img/varinhas/varinha_das_varinhas.jpg"
+    },
+    {
+        "nome": "Varinha do Harry Potter",
+        "descricao": "São varinhas muito raras que são constituídas do mesmo cerne, ou seja, do mesmo núcleo. Isso pode ser observado em relação as varinhas de Harry e do Sr. Riddle, ambas são feitas de pena da mesma Fênix, que seria a Fawkes pertencente a Albus Dumbledore.",
+        "fundo": "../../img/varinhas/harry.png"
+    },
+    {
+        "nome": "Varinha de Draco Malfoy",
+        "descricao": "A Varinha de Draco Malfoy media 25 centímetros de comprimento, era feita de madeira de pilriteiro e possuía como núcleo pelo de unicórnio. A varinha foi fabricada por Garrick Olivaras, que a descreveu como 'razoavelmente flexível'.",
+        "fundo": "../../img/varinhas/draco.jpg"
+    },
+    {
+        "nome": "Varinha de Hermione Granger",
+        "descricao": "A Varinha de Hermione Granger é uma varinha feita de videira, com 27,305cm e núcleo de fibra de coração de dragão.  Hermione usou essa varinha durante a Batalha dos Sete Potter. Ela e Kingsley rechaçaram vários Comensais da Morte durante a batalha. Quando o trio se infiltrou no Ministério para roubar de volta o medalhão de Salazar Sonserina, ela usou esta varinha.",
+        "fundo": "../../img/varinhas/hermione.jpg"
+    },
+    {
+        "nome": "Varinha de Tom Riddle",
+        "descricao": "A Varinha de Tom Riddle era uma varinha de teixo, 34cm, tendo como núcleo pena de fênix e pertencia a Tom Riddle, o bruxo que mais tarde ficou conhecido como Lord Voldemort. Ela foi fabricada por Garrick Olivaras e era a 'irmã' ou 'gêmea' da varinha de Harry Potter, como seus núcleos provinham de um mesmo animal. Foi com essa varinha que Riddle assassinou Tiago Potter e Lilian Potter e inúmeros outros, incluindo o trouxa Franco Bryce, Amélia Bones, e a funcionário do ministério Bertha Jorkins. Sob ordens de Voldemort, Pedro Pettigrew usou esta varinha para matar Cedrico Diggory em junho de 1995.",
+        "fundo": "../../img/varinhas/riddle.png"
+    },
+    {
+        "nome": "Segunda varinha de Ronald Weasley",
+        "descricao": "A segunda varinha de Ronald Weasley media 35,5 centímetros, era feita de madeira de salgueiro e continha o núcleo de fio de cauda de unicórnio. Esta varinha aparentava ser mais adequada para Rony do que sua primeira, que havia herdado de seu irmão mais velho, Carlinhos.",
+        "fundo": "../../img/varinhas/weasley.jpg"
     }
 ]

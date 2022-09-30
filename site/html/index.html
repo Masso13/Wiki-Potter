@@ -14,16 +14,23 @@
         <nav>
             <h2 class="fontHarry corTitulo">Temas de Pesquisas</h2>
             <ul>
-                <li><a href="">Varinhas</a></li>
+                <li><a href="/site/html/wiki/varinhas.html">Varinhas</a></li>
                 <li><a href="/site/html/wiki/familias.html">Famílias</a></li>
-                <li><a href="">A Biblioteca de Hogwarts</a></li>
+                <li><a href="/site/html/wiki/biblioteca_de_hogwarts.html">A Biblioteca de Hogwarts</a></li>
                 <li><a href="">Lugares</a></li>
-                <li><a href="">Áreas da Magia</a></li>
-                <li><a href="">Sequências de Franquia</a></li>
+                <li><a href="/site/html/wiki/sequencias.html">Sequências de Franquia</a></li>
             </ul>
         </nav>
     </header>
-
+    <script>
+        let ids = ["grifinoria", "sonserina", "corvinal", "lufalufa"]
+        onclick = (event)=>{
+            if (ids.includes(event.target.id)) {
+                //console.log(event.target.id)
+                location.replace("/site/html/wiki/casas.html#"+event.target.id)
+            }
+        }
+    </script>
     <main>
         <div class="item">
             <div id="barra"></div>
